@@ -3,5 +3,5 @@
 
 git add .
 git commit -m "auto commit"
-git pull
+git pull origin
 git push origin master
